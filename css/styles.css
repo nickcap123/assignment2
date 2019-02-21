@@ -4,7 +4,8 @@
 
  h2 {
      font-family: monospace;
-     color: #7488A0
+     color: #7488A0;
+     font-size: 25px
  }
 
  h1 {
@@ -16,9 +17,17 @@
      margin-right: auto;
      width: 80%;
      text-align: center;
+     font-size: 50px
      
      
  }
+
+#content {
+    color: #EF423E;
+    
+        
+}
+
 
  footer {
      font-family: monospace;
