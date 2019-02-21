@@ -16,6 +16,8 @@
      margin-right: auto;
      width: 80%;
      text-align: center;
+     
+     
  }
 
  footer {
@@ -32,3 +34,4 @@
      font-family: sans-serif;
      color: #EF423E
  }
+body { background-color: #E9DEEE}
